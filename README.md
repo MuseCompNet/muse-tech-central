@@ -16,4 +16,6 @@ A collection of open-source museum projects. This is simply a list of organizati
     - [infolounge_walls](https://github.com/walkerart/infolounge_walls)
         - Built on top of Swipe.js (old 2.0 branch) and Leaflet.js, this project creates a touch interface a set of zoomable images or video.
 
+- ### Your institution here
+    - Fork this repo and submit a pull request!
 
