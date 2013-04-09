@@ -3,6 +3,8 @@ muse-tech-central
 
 A collection of open-source museum projects. This is simply a list of organizations active on github along with a list of "featured projects" hopefully of interest to the broader community. It will attempt to be a more open replacement for the lost MuseTechCentral resource.
 
+My aim is to eventually model this after the [JQuery Plugin site](https://github.com/jquery/plugins.jquery.com), where repos can opt-in by including a manifest and a post-receive hook. For now, a list:
+
 
 - ### [Cooper Hewitt National Design Museum](https://github.com/cooperhewitt)
     - [palette-server](https://github.com/cooperhewitt/palette-server)
