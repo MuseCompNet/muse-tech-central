@@ -12,10 +12,12 @@ A collection of open-source museum projects. This is simply a list of organizati
     - [ChicagoCodeX](https://github.com/IMAmuseum/ChicagoCodeX)
         - An authoring and publishing environment for online catalogues with full scholarly apparatus
 
+- ### [Science Museum of Minnesota](https://github.com/scimusmn/)
+    - Many great HTML5 kiosk apps and admin tools
+
 - ### [Walker Art Center](https://github.com/walkerart)
     - [infolounge_walls](https://github.com/walkerart/infolounge_walls)
         - Built on top of Swipe.js (old 2.0 branch) and Leaflet.js, this project creates a touch interface a set of zoomable images or video.
 
 - ### Your institution here
     - Fork this repo and submit a pull request!
-
