@@ -14,6 +14,9 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
     - [ChicagoCodeX](https://github.com/IMAmuseum/ChicagoCodeX)
         - An authoring and publishing environment for online catalogues with full scholarly apparatus
 
+- ### [Museum of Life and Science](https://github.com/lifeandscience)
+    - Arduino, Oauth2, and Wordpress
+
 - ### [Science Museum of Minnesota](https://github.com/scimusmn/)
     - Many great HTML5 kiosk apps and admin tools
 
