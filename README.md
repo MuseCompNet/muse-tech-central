@@ -14,6 +14,9 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
     - [ChicagoCodeX](https://github.com/IMAmuseum/ChicagoCodeX)
         - An authoring and publishing environment for online catalogues with full scholarly apparatus
 
+- ### [Maine Discovery Museum](https://github.com/mainehackerclub/MDM)
+    - "Our hackers are doing a lot of good work at the Maine Discovery Museum in Bangor, Maine. This is the code for the various exhibits that we've repaired or enhanced."
+
 - ### [Media Lab at the Metropolitan Museum of Art](https://github.com/metmuseum-medialab)
     - Some visualization and exhibit experience sketches.
 
