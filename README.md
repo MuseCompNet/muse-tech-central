@@ -15,7 +15,7 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
         - An authoring and publishing environment for online catalogues with full scholarly apparatus
 
 - ### [Media Lab at the Metropolitan Museum of Art](https://github.com/metmuseum-medialab)
-    - Some sketches of exhibit experiences and visualization experiments.
+    - Some visualization and exhibit experience sketches.
 
 - ### [Museum of Life and Science](https://github.com/lifeandscience)
     - Arduino, Oauth2, and Wordpress
