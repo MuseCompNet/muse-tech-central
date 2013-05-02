@@ -28,5 +28,6 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
     - Fork this repo and submit a pull request!
 
 ## Projects
-- ### [Museum APIs](https://github.com/mialondon/Museum-APIs)
+
+- [Museum APIs](https://github.com/mialondon/Museum-APIs)
     - Bits of code used to access various museum APIs. 
