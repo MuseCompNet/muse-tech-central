@@ -26,7 +26,7 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
 - ### [Science Museum of Minnesota](https://github.com/scimusmn/)
     - HTML5 kiosk apps
     - Kiosk control software
-    - Devops tools for deployment and systems monitoring
+    - DevOps tools for deployment and systems monitoring
 
 - ### [Walker Art Center](https://github.com/walkerart)
     - [infolounge_walls](https://github.com/walkerart/infolounge_walls)
