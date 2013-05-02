@@ -18,7 +18,9 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
     - Arduino, Oauth2, and Wordpress
 
 - ### [Science Museum of Minnesota](https://github.com/scimusmn/)
-    - Many great HTML5 kiosk apps and admin tools
+    - HTML5 kiosk apps
+    - Kiosk control software
+    - Devops tools for deployment and systems monitoring
 
 - ### [Walker Art Center](https://github.com/walkerart)
     - [infolounge_walls](https://github.com/walkerart/infolounge_walls)
