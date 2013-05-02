@@ -5,7 +5,7 @@ A collection of open-source museum projects. This is simply a list of organizati
 
 My aim is to eventually model this after the [JQuery Plugin site](https://github.com/jquery/plugins.jquery.com), where repos can opt-in by including a manifest and a post-receive hook. For now, a list:
 
-
+## Institutions
 - ### [Cooper Hewitt National Design Museum](https://github.com/cooperhewitt)
     - [palette-server](https://github.com/cooperhewitt/palette-server)
         - palette-server is a small little WSGI-compliant httpony to extract colours from an image.
@@ -26,3 +26,7 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
 
 - ### Your institution here
     - Fork this repo and submit a pull request!
+
+## Projects
+- ### [Museum APIs](https://github.com/mialondon/Museum-APIs)
+    - Bits of code used to access various museum APIs. 
