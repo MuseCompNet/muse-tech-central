@@ -5,7 +5,7 @@ A collection of open-source museum projects. This is simply a list of organizati
 
 My aim is to eventually model this after the [JQuery Plugin site](https://github.com/jquery/plugins.jquery.com), where repos can opt-in by including a manifest and a post-receive hook. For now, a list:
 
-
+## Institutions
 - ### [Cooper Hewitt National Design Museum](https://github.com/cooperhewitt)
     - [palette-server](https://github.com/cooperhewitt/palette-server)
         - palette-server is a small little WSGI-compliant httpony to extract colours from an image.
@@ -13,6 +13,12 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
 - ### [Indianapolis Museum of Art](https://github.com/IMAmuseum/)
     - [ChicagoCodeX](https://github.com/IMAmuseum/ChicagoCodeX)
         - An authoring and publishing environment for online catalogues with full scholarly apparatus
+
+- ### [Maine Discovery Museum](https://github.com/mainehackerclub/MDM)
+    - "Our hackers are doing a lot of good work at the Maine Discovery Museum in Bangor, Maine. This is the code for the various exhibits that we've repaired or enhanced."
+
+- ### [Media Lab at the Metropolitan Museum of Art](https://github.com/metmuseum-medialab)
+    - Some visualization and exhibit experience sketches.
 
 - ### [Museum of Life and Science](https://github.com/lifeandscience)
     - Arduino, Oauth2, and Wordpress
@@ -25,7 +31,9 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
     - iOS and Android code for Field Guide apps.
 
 - ### [Science Museum of Minnesota](https://github.com/scimusmn/)
-    - Many great HTML5 kiosk apps and admin tools
+    - HTML5 kiosk apps
+    - Kiosk control software
+    - DevOps tools for deployment and systems monitoring
 
 - ### [Walker Art Center](https://github.com/walkerart)
     - [infolounge_walls](https://github.com/walkerart/infolounge_walls)
@@ -35,3 +43,8 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
 
 - ### Your institution here
     - Fork this repo and submit a pull request!
+
+## Projects
+
+- [Museum APIs](https://github.com/mialondon/Museum-APIs)
+    - Bits of code used to access various museum APIs. 
