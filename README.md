@@ -9,10 +9,12 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
 - ### [Cooper Hewitt National Design Museum](https://github.com/cooperhewitt)
     - [palette-server](https://github.com/cooperhewitt/palette-server)
         - palette-server is a small little WSGI-compliant httpony to extract colours from an image.
+    - ... and more
 
 - ### [Indianapolis Museum of Art](https://github.com/IMAmuseum/)
     - [ChicagoCodeX](https://github.com/IMAmuseum/ChicagoCodeX)
         - An authoring and publishing environment for online catalogues with full scholarly apparatus
+    - ... and more
 
 - ### [Maine Discovery Museum](https://github.com/mainehackerclub/MDM)
     - "Our hackers are doing a lot of good work at the Maine Discovery Museum in Bangor, Maine. This is the code for the various exhibits that we've repaired or enhanced."
@@ -40,6 +42,7 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
         - HTML5 Kiosk built on top of Swipe.js (old 2.0 branch) and Leaflet.js, this project creates a touch interface a set of zoomable images or video.
     - [garden](https://github.com/walkerart/garden)
         - Minneapolis Sculpture Garden 25th Anniversary: OpenStreetMaps data and Leaflet.
+    - ... and more
 
 - ### Your institution here
     - Fork this repo and submit a pull request!
