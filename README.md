@@ -8,7 +8,11 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
 ## Institutions
 - ### [Cooper Hewitt National Design Museum](https://github.com/cooperhewitt)
     - [palette-server](https://github.com/cooperhewitt/palette-server)
-        - palette-server is a small little WSGI-compliant httpony to extract colours from an image.
+        - palette-server is a small little WSGI-compliant httpony to extract colours from an image. ([blog post](http://labs.cooperhewitt.org/2013/giv-do/))
+    - [shannon-server](https://github.com/cooperhewitt/shannon-server)
+        - shannon-server is a small little WSGI-compliant httpony to calculate the shannon entropy for an image. ([blog post](http://labs.cooperhewitt.org/2013/default-sort-or-what-would-shannon-do/))
+    - [tms-tools](https://github.com/cooperhewitt/tms-tools)
+        - tms-tools is a set of libraries and command-line scripts for extracting, talking to and working with TMS data. ([blog post](http://labs.cooperhewitt.org/2013/tms-tools-this-is-a-blog-post-about-code/))
     - ... and more
 
 - ### [Indianapolis Museum of Art](https://github.com/IMAmuseum/)
