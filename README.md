@@ -41,6 +41,12 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
     - Kiosk control software
     - DevOps tools for deployment and systems monitoring
 
+- ### [Victoria and Albert Museum](https://github.com/organizations/vanda)
+    - [jquery_collections_browser](https://github.com/vanda/jquery_collections_browser)
+        - A jQuery plugin for browsing the Victoria and Albert Museum's collections data and images via its API.
+    - [DigitalLabels](https://github.com/vanda/DigitalLabels)
+        - Django app to generate an interactive gallery label interface, optimised for touch screens and tablets.
+
 - ### [Walker Art Center](https://github.com/walkerart)
     - [infolounge_walls](https://github.com/walkerart/infolounge_walls)
         - HTML5 Kiosk built on top of Swipe.js (old 2.0 branch) and Leaflet.js, this project creates a touch interface a set of zoomable images or video.
