@@ -58,9 +58,11 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
     - Fork this repo and submit a pull request!
 
 ## Projects
+- [Serendip-o-matic](https://github.com/chnm/serendipomatic/)
+    - Source code for serendipitous discovery tool built at One Week ¦ One Tool open-source software-development institute that includes results from DPLA, Europeana (and now Trove). More national and topic aggregators would be ace!
 
 - [Museum APIs](https://github.com/mialondon/Museum-APIs)
-    - Bits of code used to access various museum APIs. 
+    - Bits of (really quite old) PHP code used to access various museum APIs. 
 	
 - [The Museum System API](https://github.com/smoore4moma/TmsApi)
     - Services to access basic TMS tombstone and object package data.  Services are written in .NET, clients are jQuery.	
