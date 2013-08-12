@@ -13,6 +13,8 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
         - shannon-server is a small little WSGI-compliant httpony to calculate the shannon entropy for an image. ([blog post](http://labs.cooperhewitt.org/2013/default-sort-or-what-would-shannon-do/))
     - [tms-tools](https://github.com/cooperhewitt/tms-tools)
         - tms-tools is a set of libraries and command-line scripts for extracting, talking to and working with TMS data. ([blog post](http://labs.cooperhewitt.org/2013/tms-tools-this-is-a-blog-post-about-code/))
+    - [collection-wall](https://github.com/cooperhewitt/collection-wall)
+        - collection-wall is an early labs experiment for displaying collection objects as a waterfall-like wall of images. ([blog post](http://labs.cooperhewitt.org/2012/building-the-wall/))
     - ... and more
 
 - ### [Indianapolis Museum of Art](https://github.com/IMAmuseum/)
