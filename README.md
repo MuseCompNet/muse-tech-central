@@ -27,6 +27,8 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
 
 - ### [Media Lab at the Metropolitan Museum of Art](https://github.com/metmuseum-medialab)
     - Some visualization and exhibit experience sketches.
+    - [Collections API](https://github.com/jedahan/collections-api)
+        - A screen scraper that powers [scrapi.org](http://scrAPI.org), grabbing object information from the met's collection pages.
 
 - ### [Museum of Life and Science](https://github.com/lifeandscience)
     - Arduino, Oauth2, and Wordpress
