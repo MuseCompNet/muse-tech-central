@@ -53,5 +53,4 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
     - Bits of code used to access various museum APIs. 
 	
 - [The Museum System API](https://github.com/smoore4moma/TmsApi)
-    - Services to access basic TMS tombstone and object package data.  Services are written in .NET, clients are jQuery.
-	- Added stored procedure and web service that automates loading images from external sources (DAM) into TMS
+    - Services to access basic TMS tombstone, exhibition, and object package data.  Services are written in .NET, clients are jQuery.
