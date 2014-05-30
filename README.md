@@ -17,6 +17,8 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
         - collection-wall is an early labs experiment for displaying collection objects as a waterfall-like wall of images. ([blog post](http://labs.cooperhewitt.org/2012/building-the-wall/))
     - [objectphone](https://github.com/cooperhewitt/objectphone)
     	- objectphone is a simple implementation of the collections API connected to voice and SMS via [Twilio](http://twilio.com) . It is written in Python and there is a Node version as well. ([blog post](http://labs.cooperhewitt.org/2013/object-phone/))	
+    - [py-cooperhewitt](https://github.com/cooperhewitt/py-cooperhewitt)
+    	- Python bindings for the Cooper-Hewitt collections API	
     - ... and more
 
 - ### [Indianapolis Museum of Art](https://github.com/IMAmuseum/)
