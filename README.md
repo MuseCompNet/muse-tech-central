@@ -36,6 +36,19 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
     - [Collections API](https://github.com/jedahan/collections-api)
         - A screen scraper that powers [scrapi.org](http://scrAPI.org), grabbing object information from the met's collection pages.
 
+- ### [Minneapolis Institute of Arts](https://github.com/artsmia)
+    - [griot](https://github.com/artsmia/griot)
+      - A tool for building engaging stories around objects, both
+        in-gallery and on the web.
+        [Wordpress](https://github.com/artsmia/GriotWP) for friendly
+        content entry, piped as JSON for presentation in a 'rich web
+        app'.
+    - [metadrafts](https://github.com/artsmia/metadrafts)
+      - Wordpress editorial revision workflow
+    - [galleries.csv](https://github.com/miabot/galleries.csv)
+      - What's currently on view. Updated daily, diff\`ed, and
+        annotated with thumbnails.
+
 - ### [Museum of Life and Science](https://github.com/lifeandscience)
     - Arduino, Oauth2, and Wordpress
 
