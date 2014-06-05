@@ -23,7 +23,7 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
     	- A simple Flask-based HTTP-pony to dither images.
     - [py-cooperhewitt-api](https://github.com/cooperhewitt/py-cooperhewitt-api)
     	- Python bindings for the Cooper-Hewitt collections API.
-    - [py-cooperhewitt-csv](https://github.com/cooperhewitt/py-cooperhewitt-csv)
+    - [py-cooperhewitt-csvtools](https://github.com/cooperhewitt/py-cooperhewitt-csvtools)
     	- Cooper-Hewitt tools for ensuring and wrangling CSV files ... because character encoding.
     - ... and more
 
