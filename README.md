@@ -18,9 +18,13 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
     - [chromecast-signage](https://github.com/cooperhewitt/chromecast-signage)
         - A proof-of-concept Chromecast application for web-based signage in museums.
     - [objectphone](https://github.com/cooperhewitt/objectphone)
-    	- objectphone is a simple implementation of the collections API connected to voice and SMS via [Twilio](http://twilio.com) . It is written in Python and there is a Node version as well. ([blog post](http://labs.cooperhewitt.org/2013/object-phone/))	
-    - [py-cooperhewitt](https://github.com/cooperhewitt/py-cooperhewitt)
+    	- objectphone is a simple implementation of the collections API connected to voice and SMS via [Twilio](http://twilio.com) . It is written in Python and there is a Node version as well. ([blog post](http://labs.cooperhewitt.org/2013/object-phone/))
+    - [plumbing-atkinson-server](https://github.com/cooperhewitt/plumbing-atkinson-server)
+    	- A simple Flask-based HTTP-pony to dither images.
+    - [py-cooperhewitt-api](https://github.com/cooperhewitt/py-cooperhewitt-api)
     	- Python bindings for the Cooper-Hewitt collections API.
+    - [py-cooperhewitt-csv](https://github.com/cooperhewitt/py-cooperhewitt-csv)
+    	- Cooper-Hewitt tools for ensuring and wrangling CSV files ... because character encoding.
     - ... and more
 
 - ### [Indianapolis Museum of Art](https://github.com/IMAmuseum/)
