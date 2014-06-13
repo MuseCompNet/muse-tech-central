@@ -25,6 +25,8 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
     	- Python bindings for the Cooper-Hewitt collections API.
     - [py-cooperhewitt-csvtools](https://github.com/cooperhewitt/py-cooperhewitt-csvtools)
     	- Cooper-Hewitt tools for ensuring and wrangling CSV files ... because character encoding.
+    - [github-tools](https://github.com/cooperhewitt/github-tools)
+    	- Tools for working with GitHub
     - ... and more
 
 - ### [Indianapolis Museum of Art](https://github.com/IMAmuseum/)
