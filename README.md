@@ -29,7 +29,7 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
     - [The Museum System API](https://github.com/smoore4moma/TmsApi)
 		- A REST service for TMS providing access to art, exhibition, and artist data and images as either JSON or XML.
 	- [Europeana-D3](https://github.com/smoore4moma/europeana-d3)
-		- A D3.js visualization using the Europeana API.  The same visualization is included with the TMS API above. Live example: <a href='http://www.europeana-d3.info' target='_blank'>http://www.europeana-d3.info</a> 	
+		- A D3.js visualization using the Europeana API.  The same visualization is included with the TMS API above. Live example: <a href="http://www.europeana-d3.info" target="_blank">www.europeana-d3.info</a> 	
 
 - ### [Museum Victoria](https://github.com/museumvictoria)
     - [describe-me](https://github.com/museumvictoria/describe-me)
