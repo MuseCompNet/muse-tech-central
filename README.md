@@ -24,6 +24,12 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
 
 - ### [Museum of Life and Science](https://github.com/lifeandscience)
     - Arduino, Oauth2, and Wordpress
+	
+- ### [The Museum of Modern Art (MoMA)](http://www.moma.org)
+    - [The Museum System API](https://github.com/smoore4moma/TmsApi)
+		- A REST service for TMS providing access to art, exhibition, and artist data and images as either JSON or XML.
+	- [Europeana-D3](https://github.com/smoore4moma/europeana-d3)
+		- A D3.js visualization using the Europeana API.  The same visualization is included with the TMS API above. Live example: http://www.europeana-d3.info 	
 
 - ### [Museum Victoria](https://github.com/museumvictoria)
     - [describe-me](https://github.com/museumvictoria/describe-me)
@@ -52,5 +58,3 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
 - [Museum APIs](https://github.com/mialondon/Museum-APIs)
     - Bits of code used to access various museum APIs. 
 	
-- [The Museum System API](https://github.com/smoore4moma/TmsApi)
-    - Services to access basic TMS tombstone, exhibition, and object package data.  Services are written in .NET but produce platform-independent jsonp.  Examples use jQuery.
