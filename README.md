@@ -6,7 +6,7 @@ A collection of open-source museum projects. This is simply a list of organizati
 My aim is to eventually model this after the [JQuery Plugin site](https://github.com/jquery/plugins.jquery.com), where repos can opt-in by including a manifest and a post-receive hook. For now, a list:
 
 ## Institutions
-- ### [Cooper Hewitt National Design Museum](https://github.com/cooperhewitt)
+- ### [Cooper Hewitt Smithsonian Design Museum](https://github.com/cooperhewitt)
     - [palette-server](https://github.com/cooperhewitt/palette-server)
         - palette-server is a small little WSGI-compliant httpony to extract colours from an image. ([blog post](http://labs.cooperhewitt.org/2013/giv-do/))
     - [shannon-server](https://github.com/cooperhewitt/shannon-server)
@@ -22,9 +22,11 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
     - [plumbing-atkinson-server](https://github.com/cooperhewitt/plumbing-atkinson-server)
     	- A simple Flask-based HTTP-pony to dither images.
     - [py-cooperhewitt-api](https://github.com/cooperhewitt/py-cooperhewitt-api)
-    	- Python bindings for the Cooper-Hewitt collections API.
+    	- Python bindings for the Cooper Hewitt collections API.
     - [py-cooperhewitt-csvtools](https://github.com/cooperhewitt/py-cooperhewitt-csvtools)
-    	- Cooper-Hewitt tools for ensuring and wrangling CSV files ... because character encoding.
+    	- Cooper Hewitt tools for ensuring and wrangling CSV files ... because character encoding.
+    - [py-cooperhewitt-swatchbook](https://github.com/cooperhewitt/py-cooperhewitt-swatchbook)
+    	- Cooper Hewitt tools for wrangling colours.
     - [github-tools](https://github.com/cooperhewitt/github-tools)
     	- Tools for working with GitHub
     - ... and more
