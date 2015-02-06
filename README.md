@@ -60,6 +60,12 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
 - ### [Museum of Life and Science](https://github.com/lifeandscience)
     - Arduino, Oauth2, and Wordpress
 
+- ### [The Museum of Modern Art (MoMA)](http://www.moma.org)
+    - [The Museum System API](https://github.com/smoore4moma/TmsApi)
+		- A REST service for TMS providing access to art, exhibition, and artist data and images as either JSON or XML.
+	- [Europeana-D3](https://github.com/smoore4moma/europeana-d3)
+		- A D3.js visualization using the Europeana API.  The same visualization is included with the TMS API above. Live example: <a href="http://www.europeana-d3.info" target="_blank">www.europeana-d3.info</a>
+
 - ### [Museum Victoria](https://github.com/museumvictoria)
     - [describe-me](https://github.com/museumvictoria/describe-me)
         - Describe Me is a website that asks you to write alternative text (alt-text) for images contained within Museum Victoria’s collection.
@@ -93,10 +99,11 @@ My aim is to eventually model this after the [JQuery Plugin site](https://github
     - Source code for serendipitous discovery tool built at One Week ¦ One Tool open-source software-development institute that includes results from DPLA, Europeana (and now Trove). More national and topic aggregators would be ace!
 
 - [Museum APIs](https://github.com/mialondon/Museum-APIs)
-    - Bits of (really quite old) PHP code used to access various museum APIs. 
-	
+    - Bits of (really quite old) PHP code used to access various museum APIs.
+
 - [The Museum System API](https://github.com/smoore4moma/TmsApi)
-    - Services to access basic TMS tombstone and object package data.  Services are written in .NET, clients are jQuery.	
+    - Services to access basic TMS tombstone and object package data.  Services are written in .NET, clients are jQuery.
 
 - [si-scrape](https://github.com/mdlincoln/si-scrape)
     - A set of Ruby scripts to scrape information from the Smithsonian Institution's collections portal, and parse it into machine-readable JSON.
+
