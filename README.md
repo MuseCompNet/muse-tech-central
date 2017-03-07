@@ -6,6 +6,14 @@ A collection of open-source museum projects. This is simply a list of organizati
 My aim is to eventually model this after the [JQuery Plugin site](https://github.com/jquery/plugins.jquery.com), where repos can opt-in by including a manifest and a post-receive hook. For now, a list:
 
 ## Institutions
+- ### [American Museum Of Natural History](https://github.com/amnh)
+    - [Hack The Universe](https://github.com/amnh/HackTheUniverse/wiki)
+        - From the [Department of Astrophysics](http://www.amnh.org/our-research/physical-sciences/astrophysics) and the [BridgeUp: STEM program](http://www.amnh.org/learn-teach/adults/bridgeup-stem). Challenge wiki with problem statements and hackathon resources at the link above. See 29 open source projects produced at the event in the [Hack The Universe organization](https://github.com/HackTheUniverse/).
+    - [Hack The Dinos](https://github.com/amnh/HackTheDinos/wiki)
+        - The world's first dinosaur hackathon! From the [Division of Paleontology](http://www.amnh.org/our-research/paleontology) and the BridgeUp: STEM program. Challenge wiki with problem statements and hackathon resources at the link above. See 25 open source projects produced at the event in the [Hack The Dinos organization](https://github.com/HackTheDinos/).
+    - [Hack The Stacks](https://github.com/amnh/HackTheStacks/wiki)
+        - From the [Research Library](http://www.amnh.org/our-research/research-library) and the BridgeUp: STEM program. Challenge wiki with problem statements and hackathon resources at the link above. See 18 open source projects produced at the event in the [Hack The Stacks organization](https://github.com/HackTheStacks/).
+
 - ### [Cooper Hewitt Smithsonian Design Museum](https://github.com/cooperhewitt)
     - [palette-server](https://github.com/cooperhewitt/palette-server)
         - palette-server is a small little WSGI-compliant httpony to extract colours from an image. ([blog post](http://labs.cooperhewitt.org/2013/giv-do/))
